@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrophyHall", "TrophyHall\TrophyHall.csproj", "{C33153C3-5822-4F3E-A552-E6A971A39681}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrophyHallTests", "TrophyHallTests\TrophyHallTests.csproj", "{D2DF319D-22A7-4A16-B600-D9BBE022C749}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C33153C3-5822-4F3E-A552-E6A971A39681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C33153C3-5822-4F3E-A552-E6A971A39681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C33153C3-5822-4F3E-A552-E6A971A39681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C33153C3-5822-4F3E-A552-E6A971A39681}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2DF319D-22A7-4A16-B600-D9BBE022C749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2DF319D-22A7-4A16-B600-D9BBE022C749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2DF319D-22A7-4A16-B600-D9BBE022C749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2DF319D-22A7-4A16-B600-D9BBE022C749}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54505756-0E2D-4D91-A95B-45EF764F98C1}
+	EndGlobalSection
+EndGlobal
